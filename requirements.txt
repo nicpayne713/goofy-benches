@@ -1,0 +1,4 @@
+pyinstrument
+pandas
+plotly
+ipython<8
